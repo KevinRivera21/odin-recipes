@@ -2,3 +2,14 @@
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.naruto-eating-ramen {
+    text-align: center;
+}
+
+ul {
+    padding-left: 0; /* Removes default padding */
+    margin: 0 auto; /* Centers the list */
+    text-align: left; /* Aligns text to the left within the list */
+    width: fit-content; /* Adjusts width to fit the content */
+}
